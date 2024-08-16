@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "JoinWeMate/JoinWeMate.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "JoinWeMate/JoinWeMate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "JoinWeMate/JoinWeMate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "JoinWeMate/JoinWeMate.md"
               }
             }
           }
@@ -151,7 +151,14 @@
   },
   "active": "c978c300816b8716",
   "lastOpenFiles": [
-    "Welcome.md",
+    "JoinWeMate/FrontEnd/MobileApp.md",
+    "JoinWeMate/JoinWeMate.md",
+    "JoinWeMate/FrontEnd/FrontEnd.md",
+    "README.md",
+    "JoinWeMate/BackEnd/BackEnd.md",
+    "JoinWeMate/BackEnd",
+    "JoinWeMate/FrontEnd",
+    "JoinWeMate",
     "dddd",
     "create a link.md"
   ]
