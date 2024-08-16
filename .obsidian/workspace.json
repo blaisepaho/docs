@@ -11,12 +11,37 @@
             "id": "c978c300816b8716",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "JoinWeMate/JoinWeMate.md",
-                "mode": "source",
-                "source": true
+                "file": "JoinWeMate/FrontEnd/Kanban Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6263645d545c7a9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16c35368865a96fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JoinWeMate/JoinWeMate.md",
+                "file": "JoinWeMate/FrontEnd/Kanban Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JoinWeMate/JoinWeMate.md",
+                "file": "JoinWeMate/FrontEnd/Kanban Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JoinWeMate/JoinWeMate.md"
+                "file": "JoinWeMate/FrontEnd/Kanban Board.md"
               }
             }
           }
@@ -144,15 +169,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false
     }
   },
   "active": "c978c300816b8716",
   "lastOpenFiles": [
-    "JoinWeMate/FrontEnd/MobileApp.md",
+    "Initialize the web front end app.md",
+    "JoinWeMate/FrontEnd/Kanban Board.md",
+    "Blank Kanban Board.md",
     "JoinWeMate/JoinWeMate.md",
+    "JoinWeMate/FrontEnd/MobileApp.md",
     "JoinWeMate/FrontEnd/FrontEnd.md",
     "README.md",
     "JoinWeMate/BackEnd/BackEnd.md",
