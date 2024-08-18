@@ -11,26 +11,40 @@
             "id": "c978c300816b8716",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "JoinWeMate/FrontEnd/Kanban Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81cdf8186090b419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/1-Docker basic commands.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "51208243e602309e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/3-Docker-compose.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6263645d545c7a9c",
@@ -43,8 +57,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "4c3b1a0da448e31e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/2-Create Docker image from java app.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b27c58514c0e282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/1-Docker basic commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JoinWeMate/FrontEnd/Kanban Board.md",
+                "file": "Docker/3-Docker-compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JoinWeMate/FrontEnd/Kanban Board.md",
+                "file": "Docker/3-Docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JoinWeMate/FrontEnd/Kanban Board.md"
+                "file": "Docker/3-Docker-compose.md"
               }
             }
           }
@@ -173,15 +212,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c978c300816b8716",
+  "active": "51208243e602309e",
   "lastOpenFiles": [
-    "Initialize the web front end app.md",
+    "Docker/2-Create Docker image from java app.md",
+    "Docker/3-Docker-compose.md",
+    "Docker/1-Docker basic commands.md",
+    "Docker/assets/Screenshot 2024-08-16 at 8.46.46 PM.png",
+    "Docker/assets/Screenshot 2024-08-16 at 8.45.00 PM.png",
+    "Docker/assets",
+    "README.md",
+    "Docker",
     "JoinWeMate/FrontEnd/Kanban Board.md",
+    "Initialize the web front end app.md",
     "Blank Kanban Board.md",
     "JoinWeMate/JoinWeMate.md",
     "JoinWeMate/FrontEnd/MobileApp.md",
     "JoinWeMate/FrontEnd/FrontEnd.md",
-    "README.md",
     "JoinWeMate/BackEnd/BackEnd.md",
     "JoinWeMate/BackEnd",
     "JoinWeMate/FrontEnd",
