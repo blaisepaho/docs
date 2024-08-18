@@ -19,4 +19,3 @@ docker-compose -f <fileName.yml> down
 Continue to:
 - [Jib plugin](https://github.com/GoogleContainerTools/jib/tree/master/jib-maven-plugin)
 
-/backup
