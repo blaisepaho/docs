@@ -37,53 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/3-Docker-compose.md",
+                "file": "JoinWeMate/fonctionalites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb09bd5d1e54b1bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foctionnalites jude.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "340821f2096eafec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keycloak/Export and Import Keycloak config with docker container.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "6263645d545c7a9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "16c35368865a96fc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4c3b1a0da448e31e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/2-Create Docker image from java app.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b27c58514c0e282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/1-Docker basic commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/3-Docker-compose.md",
+                "file": "Keycloak/Export and Import Keycloak config with docker container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/3-Docker-compose.md",
+                "file": "Keycloak/Export and Import Keycloak config with docker container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,16 +174,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/3-Docker-compose.md"
+                "file": "Keycloak/Export and Import Keycloak config with docker container.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,20 +197,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "51208243e602309e",
+  "active": "340821f2096eafec",
   "lastOpenFiles": [
-    "Docker/2-Create Docker image from java app.md",
+    "Keycloak/1. Securisation d'un front-end Angualr.md",
+    "Keycloak/Export and Import Keycloak config with docker container.md",
+    "Foctionnalites jude.md",
+    "Keycloak",
+    "JoinWeMate/fonctionalites.md",
+    "README.md",
+    "JoinWeMate/Planning de developpement.md",
+    "Untitled.canvas",
+    "JoinWeMate/JoinWeMate.md",
     "Docker/3-Docker-compose.md",
+    "Docker/2-Create Docker image from java app.md",
     "Docker/1-Docker basic commands.md",
     "Docker/assets/Screenshot 2024-08-16 at 8.46.46 PM.png",
     "Docker/assets/Screenshot 2024-08-16 at 8.45.00 PM.png",
     "Docker/assets",
-    "README.md",
     "Docker",
     "JoinWeMate/FrontEnd/Kanban Board.md",
     "Initialize the web front end app.md",
     "Blank Kanban Board.md",
-    "JoinWeMate/JoinWeMate.md",
     "JoinWeMate/FrontEnd/MobileApp.md",
     "JoinWeMate/FrontEnd/FrontEnd.md",
     "JoinWeMate/BackEnd/BackEnd.md",
